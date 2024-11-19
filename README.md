@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đặng Hùng Cường Back-end Dev</h1>
+<h1 align="center">Hi 👋, I'm Đặng Hùng Cường Back-end</h1>
 
 <h3 align="center">I am studying at the University of Greenwich and I am starting to develop my career from Back-End.</h3>
 
