@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left">🌟 Connect with me:</h3>
+<h3 align="left">🌟Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dang-hung-cuong-be27/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
