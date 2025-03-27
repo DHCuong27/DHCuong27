@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đặng Hùng Cường</h1>
+<h1 align="center">Hi👋, I'm Đặng Hùng Cường</h1>
 <h3 align="center">A passionate Back-End Developer in the making at the University of Greenwich </h3>
 
 <p align="center">
