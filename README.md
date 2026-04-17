@@ -25,14 +25,21 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/dang-hung-cuong-be27/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://fb.com/gnouc17" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/dang-hung-cuong-be27/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fb.com/gnouc17" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
