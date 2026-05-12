@@ -51,9 +51,6 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
